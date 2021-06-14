@@ -35,5 +35,6 @@
 <ul>
 <li>Adding a new note</li>
 <li>Deleting a note</li>
-<li>Updating the existing note</li>
+<li>Listing all the notes</li>
+ <li>Reading the note by a title</li>
  </ul>
