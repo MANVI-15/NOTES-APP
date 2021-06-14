@@ -15,7 +15,7 @@
 </ul>
 
 
-<h1>COMAANDS FOR DIFFERENT TASK </h1>
+<h1>Commands for different task </h1>
 <ul>
   <li>Adding a new note</li>
   Command:  node app.js add --title="title note" --body="body note"
@@ -31,7 +31,7 @@
   
  </ul>
 
-<h1> FEATURES OF APPLICATION</h1>
+<h1> Features of Application</h1>
 <ul>
 <li>Adding a new note</li>
 <li>Deleting a note</li>
