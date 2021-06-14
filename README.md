@@ -18,13 +18,13 @@
 <h1>COMAANDS FOR DIFFERENT TASK </h1>
 <ul>
   <li>Adding a new note</li>
-  <li>Command:  node app.js add --title="title note" --body="body note"</li>
-  <li>Deleting a note</li>
-  <li>Command:node app.js remove --title="title note"</li>
- <li>Listing all the existing note</li>
-  <li>Command:  node app.js list</li>
-  <li>Reading a note by title:</li>
-  <li>Command: node app.js read --title="title note"</li>
+  <br>Command:  node app.js add --title="title note" --body="body note"
+  <br><li>Deleting a note</li>
+  <br>Command:node app.js remove --title="title note"
+  <br><li>Listing all the existing note</li>
+  <br>Command:  node app.js list
+  <br><li>Reading a note by title:</li>
+  <br>Command: node app.js read --title="title note"
   
  </ul>
 
